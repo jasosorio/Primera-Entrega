@@ -1,0 +1,2 @@
+* Se debe recorrer en consola con node inicio 
+Ej: node inicio inscribir -i=3 -n=Juan -c=12345

@@ -1,0 +1,14 @@
+{
+  "name": "actividad-1",
+  "version": "1.0.0",
+  "description": "actividad 1",
+  "main": "cursos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jasson",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
